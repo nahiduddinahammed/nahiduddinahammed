@@ -8,13 +8,13 @@ Currenty I'm working with Machine Learning and Artificial Inteligence for my res
 - Languages : C, C++, Java, Dart, PHP and Python
 - Frameworks : Flutter and Android
 - Database: MySQL, SQL Server, SQLite and Firebase
-- Know the REST API development with Lumen
+- Know the REST API development with php
 - Strong knowledge in RESTful web-services/API
-- Experience with Software architecture design concepts and techniques and have the ability to communicate and evangelize those concepts to a board-based team 
+- Experience with Software architecture design concepts and techniques
 - Have good experience with Unit testing
 - Good problem solving skills
-- Adobe XD & Figma for UI/UX
-- Proper knowledge of Github
+- Adobe XD & Figma for UI/UX Design
+- Proper knowledge about Github and Git
 - Know about business analytics
 - Knowledge about Machine Learning and Data Science
 
