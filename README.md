@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am <strong>Nahid Uddin Ahammed</strong>. I'm currently working on Mobile Application and REST API Devlopment. As mobile app devleoper I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross platform native app development and I really love it. 
+I am <strong>Nahid Uddin Ahammed</strong>. I'm currently working on Mobile Application(IOS and Android Cross Platform) and REST API Devlopment. As mobile app devleoper I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross platform native app development and I really love it. 
 I have worked as an Android developer about 2 years. In the ending of 2019, I dicided to move in Flutter.
 Currenty I'm working with Machine Learning and Artificial Inteligence for my research and make my projects more productive. I am quite good at Mathematics and Programming. I have a one published research paper in "An Automatic Violence Detection Technique Using Convolution Neural Network" at International Conference on Sentimental Analysis and Deep Learning(ICSAD).
 
