@@ -5,7 +5,7 @@ I have worked as an Android developer about 2 years. In the ending of 2019, I di
 Currenty I'm working with Machine Learning and Artificial Inteligence for my research and make my projects more productive. I am quite good at Mathematics and Programming. I have a one published research paper in "An Automatic Violence Detection Technique Using Convolution Neural Network" at International Conference on Sentimental Analysis and Deep Learning(ICSAD).
 
 ### Skills I have
-- Languages : C, C++, Java, Dart, PHP and Python
+- Languages : C, Java, PHP, Javascript, Dart and Python
 - Frameworks : Flutter, Android and Django
 - Database: MySQL, SQL Server, SQLite and Firebase
 - Know the REST API development with php
