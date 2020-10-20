@@ -6,7 +6,7 @@ Currenty I'm working with Machine Learning and Artificial Inteligence for my res
 
 ### Skills I have
 - Languages : C, C++, Java, Dart, PHP and Python
-- Frameworks : Flutter and Android
+- Frameworks : Flutter, Android and Django
 - Database: MySQL, SQL Server, SQLite and Firebase
 - Know the REST API development with php
 - Strong knowledge in RESTful web-services/API
